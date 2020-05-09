@@ -1,6 +1,6 @@
 <template>
   <v-app dark>
-    <v-navigation-drawer
+    <!-- <v-navigation-drawer
       v-model="drawer"
       :mini-variant="miniVariant"
       :expand-on-hover="expandOnHover"
@@ -24,9 +24,9 @@
           </v-list-item-content>
         </v-list-item>
       </v-list>
-    </v-navigation-drawer>
+    </v-navigation-drawer> -->
     <v-app-bar :clipped-left="clipped" fixed app>
-      <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
+      <!-- <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
       <v-btn icon @click.stop="miniVariant = !miniVariant">
         <v-icon>mdi-{{ `chevron-${miniVariant ? 'right' : 'left'}` }}</v-icon>
       </v-btn>
@@ -35,13 +35,17 @@
       </v-btn>
       <v-btn icon @click.stop="fixed = !fixed">
         <v-icon>mdi-minus</v-icon>
-      </v-btn>
+      </v-btn> -->
       <v-toolbar-title v-text="title" />
+      <v-btn v-if="$auth.loggedIn" to="/regulations" text small
+        >Regulations</v-btn
+      >
+      <v-btn v-if="$auth.loggedIn" to="/documents" text small>Documents</v-btn>
+
       <v-spacer />
 
       <h3>Hello, {{ $auth.loggedIn ? $auth.user.nickname : 'friend' }}!</h3>
 
-      <v-btn v-if="$auth.loggedIn" to="/about" text small>Secret Button</v-btn>
       <v-btn v-if="$auth.loggedIn" text small @click="logout">Logout</v-btn>
       <v-btn v-else text small @click="login">Login</v-btn>
 
