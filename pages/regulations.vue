@@ -1,20 +1,22 @@
 <template>
-  <v-card>
-    <v-card-title class="indigo white--text headline">
-      Regulations
-    </v-card-title>
-    <v-row class="pa-4" justify="space-between">
-      <v-col cols="3">
-        <v-treeview hoverable :items="items"></v-treeview>
-      </v-col>
+  <v-container fluid>
+    <v-card>
+      <v-card-title class="indigo white--text headline">
+        Regulations
+      </v-card-title>
+      <v-row class="pa-4" justify="space-between">
+        <v-col cols="3">
+          <v-treeview hoverable :items="items"></v-treeview>
+        </v-col>
 
-      <v-divider vertical></v-divider>
+        <v-divider vertical></v-divider>
 
-      <v-col class="d-flex text-center">
-        Content
-      </v-col>
-    </v-row>
-  </v-card>
+        <v-col class="d-flex text-center">
+          Content
+        </v-col>
+      </v-row>
+    </v-card>
+  </v-container>
 </template>
 
 <script>

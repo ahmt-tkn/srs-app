@@ -1,9 +1,11 @@
 <template>
-  <v-row dense>
-    <v-col>
-      <MainContent :content="content" />
-    </v-col>
-  </v-row>
+  <v-container fluid>
+    <v-row>
+      <v-col>
+        <MainContent :content="content" />
+      </v-col>
+    </v-row>
+  </v-container>
 </template>
 
 <script>

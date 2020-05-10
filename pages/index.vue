@@ -1,7 +1,7 @@
 <template>
-  <v-row>
-    <v-col>
-      <div v-if="$auth.loggedIn">
+  <v-container fluid>
+    <v-row v-if="$auth.loggedIn">
+      <v-col>
         <v-card class="mb-4">
           <v-app-bar dark color="blue">
             <v-toolbar-title>Dashboard Card</v-toolbar-title>
@@ -29,10 +29,9 @@
             </v-row>
           </v-container>
         </v-card>
-      </div>
-      <div v-else>Public Content</div>
-    </v-col>
-  </v-row>
+      </v-col>
+    </v-row>
+  </v-container>
 </template>
 
 <script>
@@ -51,12 +50,12 @@ export default {
       { text: 'ORG 1.1.1', type: 'r', id: 'WHEYWEASD' },
       { text: 'SXS-OMA', type: 'd', id: 'WEQDAWEASD' }
     ]
-  }),
-  middleware: 'auth',
+  })
+  /* ,
   computed: {
     user() {
       return this.$auth.user
     }
-  }
+  } */
 }
 </script>
