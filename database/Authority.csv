@@ -1,0 +1,173 @@
+uid,CountryID,name,code,nameInLocalLanguage,Website
+1,1,International Civil Aviation Organization,?CAO,Organisation de l'aviation civile internationale,www.icao.int
+2,2,Ministry of Transport and Civil Aviation,MOTCA,? ????????? ?????? ???????? ? ????????? ?? ???? ????? ???? ?????,www.motca.gov.af
+3,3,Albanian Civil Aviation Authority,AAC,Autoriteti i Aviacionit Civil të Shqipërisë,www.aac.gov.al
+4,4,Directorate of Civil Aviation and Meteorology,EGSA-ALGER,Établissement de Gestion de Services Aéroportuaires d'Alger (EGSA), Établissement Nationale de la Navigation Aérienne (ENNA),www.egsa-alger.dz www.enna.dz
+5,5,National Civil Aviation Institute,?NAV?C,Instituto Nacional de Aviação Civil,www.inavic.gv.ao
+6,6,National Civil Aviation Administration,ANAC,Administración Nacional de Aviación Civil,www.anac.gov.ar
+7,7,General Department of Civil Aviation of Armenia,CAA-AM,???????????? ????????? ??????? ???????????,www.aviation.am
+8,8,Department of Civil Aviation of Aruba,DCA-AW,,www.dca.gov.aw
+9,9,Civil Aviation Safety Authority,CASA,,www.casa.gov.au
+10,10,Ministry for Transport, Innovation and Technology,BMV?T,Bundesministerium für Verkehr, Innovation und Technologie,www.bmvit.gv.at
+11,11,Department of Civil Aviation of Bahamas,BAHAMAS,,www.bahamas.gov.bs
+12,12,Department of Civil Aviation Affairs,CAA-BH,???? ??????? ??????,www.caa.gov.bh
+13,13,Civil Aviation Authority, Bangladesh,CAAB-BD,???????? ????? ????? ?????????,www.caab.gov.bd
+14,14,Civil Aviation Department of Barbados,BCAD,,www.bcad.gov.bb
+15,15,Aviation Department of Belarus,AV?A,??????????? ?? ???????,www.avia.by
+16,16,Federal Public Service Mobility and Transport,MOB?L?T,Service public fédéral Mobilité et Transports,www.mobilit.belgium.be/fr/ - French
+17,17,National Civil Aviation Agency,ANAC,Agence Nationale de l'Aviation Civile du Bénin,www.anac.bj
+18,18,Bermuda Civil Aviation Authority,BCAA,,www.bcaa.bm
+19,19,Bhutan Civil Aviation Authority,BCAA,,www.bcaa.gov.bt
+20,20,General Directorate of Civil Aviation of Bolivia,DGAC-BO,Dirección General de Aeronáutica Civil,www.dgac.gob.bo
+21,21,Bosnia and Herzegovina Directorate of Civil Aviation,BHDCA,Bosna i Hercegovina Direkcija za civilno zrakoplovstvo,www.bhdca.gov.ba
+22,22,Department of Civil Aviation of Botswana,CAAB-BW,,www.caab.co.bw
+23,23,National Civil Aviation Agency of Brazil,ANAC,Agência Nacional de Aviação Civil,www.anac.gov.br
+24,24,Department of Civil Aviation of Brunei,CAA-BN,Jabatan Penerbangan Awam,www.civil-aviation.gov.bn
+25,25,Civil Aviation Administration (Bulgaria),CAA-BG,"?????? ???????? ""?????????? ????????????????? ?????????????""",www.caa.bg
+26,26,Secretariat of State for Civil Aviation,CAA-KH,???????????????????????????????,www.civilaviation.gov.kh
+27,27,Cameroon Civil Aviation Authority,CCAA,,www.ccaa.aero
+28,28,Transport Canada Civil Aviation Directorate (Transport Canada Civil Aviation),TCCAD,Transports Canada Direction générale de l’aviation civile,www.tc.gc.ca/eng/civilaviation/menu.htm - English
+29,29,Civil Aviation Authority of the Cayman Islands,CAACAYMAN,,www.caacayman.com
+30,30,Directorate General of Civil Aviation,DGAC-CL,Dirección General de Aeronáutica Civil,www.dgac.gob.cl
+31,31,Civil Aviation Administration of China,CAA-CN,???????,www.caac.gov.cn
+32,32,Clipperton Department of Civil Aviation,DCA-CO,DCA Clipperton,www.dca.clipperton-gov.co
+33,33,Special Administrative Unit of Civil Aeronautics,AEROC?V?L,Unidad Administrativa Especial de Aeronáutica Civil,www.aerocivil.gov.co
+34,34,Pacific Aviation Safety Office,PASO,,www.paso.aero
+35,35,Directorate General of Civil Aviation of Costa Rica,DGAC-CR,Dirección General de Aviación Civil de Costa Rica,www.dgac.go.cr
+36,36,Croatian Civil Aviation Agency,CCAA-HR,Hrvatska agencija za civilno zrakoplovstvo,www.ccaa.hr
+37,37,Institute of Civil Aeronautics of Cuba,CUBAGOB,Instituto de Aeronáutica Civil de Cuba,www.cubagob.cu
+38,38,Department of Civil Aviation of Cyprus,MCW,????? ????????? ??????????,www.mcw.gov.cy
+39,39,Civil Aviation Authority of the Czech Republic,CAA-CZ,Ú?ad pro civilní letectví ?eská republika,www.caa.cz
+40,40,Danish Transport Authority,TRAF?KSTYRELSEN,Trafikstyrelsen,www.trafikstyrelsen.dk
+41,41,Dominican Institute of Civil Aviation,?DAC,Instituto Dominicano de Aviación Civil,www.idac.gov.do
+42,42,Directorate General of Civil Aviation of Ecuador,AV?AC?ONC?V?L,Dirección General de Aviación Civil,www.aviacioncivil.gob.ec
+43,43,Ministry of Civil Aviation of Egypt,CAA-EG,????? ??????? ??????,www.civilaviation.gov.eg
+44,44,Civil Aviation Authority of El Salvador,AAC,Autoridad de Aviación Civil,
+45,45,Estonian Civil Aviation Administration,ECAA,Lennuamet,www.ecaa.ee
+46,46,European Aviation Safety Agency,EASA,,www.easa.europa.eu
+47,47,Civil Aviation Authority of Fiji,CAAF?,,www.caafi.org.fj
+48,48,Finnish Transport Safety Agency,TRAF?,,www.trafi.fi
+49,49,Directorate General for Civil Aviation,DGAC-FR,Direction Générale de l'Aviation Civile,www.dgac.fr
+50,50,National Civil Aviation Agency,ANACGABON,Agence Nationale de l'Aviation Civile (ANAC),www.anacgabon.org
+51,51,Gambia Civil Aviation Authority,GAMB?A,,www.gambia.gm/gcaa/
+52,52,Georgian Civil Aviation Agency,CAA-GE,??????????? ?????????? ???????? ????????,www.gcaa.ge
+53,53,Federal Aviation Office,LBA,Luftfahrt-Bundesamt (LBA),www.lba.de/EN/
+54,54,Ghana Civil Aviation Authority,CAA-GH,,www.gcaa.com.gh
+55,55,Hellenic Civil Aviation Authority,HCAA,???????? ????????? ?????????? (???),www.hcaa.gr
+56,56,Directorate General of Civil Aviation of Guatemala,DGACGUATE,Dirección General de Aeronáutica Civil,www.dgacguate.com
+57,57,Guyana Civil Aviation Authority,GCAA-GY,,www.gcaa-gy.org
+58,58,Civil Aviation Department,CAD-HK,???,www.cad.gov.hk
+59,59,Icelandic Transport Authority,?CETRA,Samgöngustofa,www.icetra.is
+60,60,Directorate General of Civil Aviation,DGCA-IN,????????? ???? ??????,www.dgca.nic.in
+61,61,Directorate General of Civil Aviation,HUBUD,Direktorat Jenderal Perhubungan Udara,www.hubud.dephub.go.id
+62,62,Iran Civil Aviation Organization,CAO,?????? ????????? ?????,www.cao.ir
+63,63,Iraq Civil Aviation Authority,?CAA,???? ??????? ?????? ???????,www.icaa.gov.iq
+64,64,Irish Aviation Authority,?AA,Údarás Eitlíochta na hÉireann,www.iaa.ie
+65,65,Civil Aviation Authority,CAA-IL,???? ?????? ???????,www.caa.gov.il
+66,66,Isle of Man Aircraft Registry,CAA-IM,,www.gov.im/ded/aircraft/
+67,67,National Agency for Civil Aviation,ENAC,Ente nazionale per l'aviazione civile,www.enac.gov.it
+68,68,Jamaica Civil Aviation Authority,JCAA,,www.jcaa.gov.jm
+69,69,Japan Civil Aviation Bureau,ML?T,???,www.mlit.go.jp
+70,70,Civil Aviation Regulatory Commission of Jordan,CARC,,www.carc.jo
+71,71,Civil Aviation Committee,CAC-KZ,????????? ??????? ????????,www.aviation.mid.gov.kz
+72,72,Kenya Civil Aviation Authority,KCAA,,www.kcaa.or.ke
+73,73,Civil Aviation Administration of Korea,CAA-KOREA,????,
+74,74,Korea Office of Civil Aviation,KOCA,???? ????? ?????,www.koca.go.kr
+75,75,Pacific Aviation Safety Office,PASO,,www.paso.aero
+76,76,Civil Aviation Authority of Kosovo,CAA-KS,Autoriteti i Aviacionit Civil të Kosovës,www.caa-ks.org
+77,77,Directorate General of Civil Aviation,DGCA-KW,??????? ?????? ??????? ??????,www.dgca.gov.kw
+78,78,Civil Aviation Agency of Kyrgyz Republic (Kyrgyzstan),CAA-KG,????????? ??????????? ??????? ?????????? ??????????,www.caa.kg
+79,79,Department of Civil Aviation of Laos,DCAL,???????????????????????????????? ????? ????,www.dcal.gov.la
+80,80,Civil Aviation Agency of Latvia,CAA-LV,Civil?s avi?cijas a?ent?ra,www.caa.lv
+81,81,Lebanese Civil Aviation Authority,DGCA-LB,????? ??????? ?????? ????????,www.dgca.gov.lb
+82,82,Department of Civil Aviation of Lesotho,C?V?LA?R,,www.civilair.gov.ls
+83,83,Libyan Civil Aviation Authority,LYCAA,????? ??????? ??????,www.lycaa.org
+84,84,Office of Civil Aviation of Liechtenstein,CAA-LIECH,,
+85,85,Civil Aviation Administration of Lithuania,CAA-LITHUA,Civilin?s aviacijos administracija,
+86,86,Directorate of Civil Aviation of Luxembourg,DAC-LU,Direction de l’Aviation Civile,www.dac.public.lu
+87,87,Civil Aviation Authority,AACM,???,www.aacm.gov.mo
+88,88,Civil Aviation Authority of Malaysia,DCA-MY,Pihak Berkuasa Penerbangan Awam Malaysia,www.dca.gov.my
+89,89,Department of Civil Aviation of Malawi,MALAW?,,www.malawi.gov.mw/Transport/Home%20CivilAviation.htm
+90,90,Civil Aviation Department of the Maldives,AV?A?NFO,,www.aviainfo.gov.mv
+91,91,Civil Aviation Directorate of Malta,TRANSPORT,Direttorat tal-Avjazzjoni ?ivili,www.transport.gov.mt/aviation/civil-aviation-directorate
+92,92,Directorate of Civil Aviation of the Marshall Islands,RM?PA,,www.rmipa.com/airports/
+93,93,Department of Civil Aviation of Mauritius,CAA-MU,Department of Civil Aviation (DCA) of Mauritius,www.civil-aviation.govmu.org
+94,94,Federal Civil Aviation Agency,SCT,Agencia Federal de Aviación Civil,www.sct.gob.mx/transporte-y-medicina-preventiva/aeronautica-civil/
+95,95,Civil Aviation Administration of Moldova,CAA-MD,Administra?ia de Stat a Avia?iei Civile a Republicii Moldova,www.en.caa.md
+96,96,Civil Aviation Authority of Mongolia,MCAA,??????? ???????? ??????? ?????,www.mcaa.gov.mn?page_id=6161
+97,97,Monaco Civil Aviation Authority,GOUV,Service de l'Aviation Civile du Principauté de Monaco,www.en.gouv.mc/Government-Institutions/The-Government/Ministry-of-Public-Works-the-Environment-and-Urban-Development/Civil-Aviation-Authority
+98,98,Civil Aviation Agency of Montenegro,CAA-ME,Agencija za civilno vazduhoplovstvo,www.caa.me
+99,99,Civil Aviation Institute of Mozambique,?ACM,Instituto de Aviação Civil de Moçambique,www.iacm.gov.mz
+100,100,Department of Civil Aviation of Myanmar,MOT,???????????????????????????????????????,www.mot.gov.mm/dca/
+101,101,Namibia Civil Aviation Authority,DCA-NA,,www.dca.com.na
+102,102,Pacific Aviation Safety Office,PASO,,www.paso.aero
+103,103,Civil Aviation Authority of Nepal,CAANEPAL,????? ?????? ?????? ?????????,www.caanepal.org.np
+104,104,Human Environment and Transport Inspectorate,ILENT,Inspectie Leefomgeving en Transport (ILT),www.english.ilent.nl/themes/themes/aviation
+105,105,Civil Aviation Authority of New Zealand,CAA-NZ,,www.caa.govt.nz
+106,106,Nicaraguan Institute of Civil Aviation,?NAC-NI,Instituto Nicaragüense de Aeronáutica Civil,www.inac.gob.ni
+107,107,Nigerian Civil Aviation Authority,NCAA,,www.ncaa.gov.ng
+108,108,Pacific Aviation Safety Office,PASO,,www.paso.aero
+109,109,Civil Aviation Agency of North Macedonia,CAA-MK,???????? ?? ??????? ???????????????,www.caa.gov.mk
+110,110,Civil Aviation Authority of Norway,LUFTFARTST?LSYNET,Luftfartstilsynet,www.luftfartstilsynet.no/caa_no/
+111,111,Public Authority for Civil Aviation,PACA,???????? ?????? ??????? ?????? ???????? ??????,www.paca.gov.om
+112,112,Pakistan Civil Aviation Authority,CAAPAK?STAN,?????? ???? ????? ???????,www.caapakistan.com.pk
+113,113,Civil Aviation Authority of Panama,AERONAUT?CA,Autoridad Aeronáutica Civil,www.aeronautica.gob.pa
+114,114,Civil Aviation Authority of Papua New Guinea,CASAPNG,,www.casapng.gov.pg
+115,115,National Directorate of Civil Aviation of Paraguay,D?NAC,Dirección Nacional de Aeronáutica Civil,www.dinac.gov.py
+116,116,Directorate General of Civil Aviation of Peru,MTC,Dirección General de Aeronáutica Civil,www.mtc.gob.pe
+117,117,Civil Aviation Authority of the Philippines,CAAP,Pangasiwaan ng Abyasyon Sibil ng Pilipinas,www.caap.gov.ph
+118,118,Civil Aviation Authority,ULC,Urz?d Lotnictwa Cywilnego,www.ulc.gov.pl
+119,119,National Institute of Civil Aviation of Portugal,ANAC,Autoridade Nacional de Aviação Civil (ANAC),www.anac.pt
+120,120,Civil Aviation Authority of Qatar,CAA-QA,?????? ?????? ??????? ??????,www.caa.gov.qa
+121,121,Romanian Civil Aeronautical Authority,CAA-RO,Autoritatea Aeronautic? Civil? Român?,www.caa.ro
+122,122,Federal Air Transport Agency,FAVT,??????????? ????????? ?????????? ??????????,www.favt.ru
+123,123,Rwanda Civil Aviation Authority,CAA-RW,,www.caa.gov.rw
+124,124,Pacific Aviation Safety Office,PASO,,www.paso.aero
+125,125,San Marino Civil Aviation and Maritime Authority,CAA-MNA,Autorità per l'Aviazione Civile e la Navigazione Marittima,www.caa-mna.sm
+126,126,General Authority of Civil Aviation,GACA,?????? ?????? ??????? ??????,www.gaca.gov.sa
+127,127,National Civil Aviation Agency of Senegal,ANAC?M,Agence Nationale de l'Aviation Civile du Sénégal,www.anacim.sn
+128,128,Civil Aviation Directorate of Serbia,CAD-RS,?????????? ???????? ???????????????,www.cad.gov.rs
+129,129,Seychelles Civil Aviation Authority,SCAA-SC,,www.scaa.sc
+130,130,Civil Aviation Authority of Singapore,CAAS,,www.caas.gov.sg
+131,131,Civil Aviation Authority of the Slovak Republic,CAA-SK,Letecký úrad Slovenskej republiky,www.caa.sk
+132,132,Civil Aviation Authority of the Slovenian Republic,CAA-SI,Javna agencija za civilno letalstvo Republike Slovenije,www.caa.si
+133,133,Pacific Aviation Safety Office,PASO,,www.paso.aero
+134,134,Somali Civil Aviation and Meteorology Authority,SCAMA,Hay'adda Duulista Rayidka & Saadaasha Hawada Soomaaliyeed,www.scama.so
+135,135,South African Civil Aviation Authority,CAA-ZA,,www.caa.co.za
+136,136,Spanish Aviation Safety and Security Agency,SEGUR?DADAEREA,Agencia Estatal de Seguridad Aérea (AESA),www.seguridadaerea.gob.es/lang_en/home.aspx
+137,137,Civil Aviation Authority of Sri Lanka,CAA-LK,????? ???? ?????? ????? ???? ????????,www.caa.lk
+138,138,Civil Aviation Authority of Sudan,CAA-SUDAN,,www.caa-sudan.net
+139,139,Civil Aviation Department of Suriname,CADSUR,,www.cadsur.sr
+140,140,Swedish Transport Agency,TRANSPORTSTYRELSEN,Transportstyrelsen,www.transportstyrelsen.se/en/aviation/
+141,141,Federal Office for Civil Aviation,BAZL,French: Office fédéral de l'aviation civile (OFAC),www.bazl.admin.ch/index.html?lang=en
+142,142,Syrian Civil Aviation Authority,SCAA-SY,??????? ?????? ??????? ??????,www.scaa.sy
+143,143,Civil Aeronautics Administration,CAA-TW,????????,www.caa.gov.tw
+144,144,Tanzania Civil Aviation Authority,TCAA,Mamlaka ya Usafiri wa Anga Tanzania,www.tcaa.go.tz
+145,145,The Civil Aviation Authority of Thailand,CAAT,??????????????????????????????????,www.caat.or.th/
+146,146,Civil Aviation Division of Timor-Leste,CAA-TIMOR,,www.gov.east-timor.org/CAA/
+147,147,Civil Aviation Agency of Togo,ANAC-TOGO,Agence Nationale de l'Aviation Civile du Togo (ANAC-TOGO),www.anac-togo.tg
+148,148,Pacific Aviation Safety Office,PASO,,www.paso.aero
+149,149,Trinidad and Tobago Civil Aviation Authority,CAA-TT,,www.caa.gov.tt
+150,150,Office of Civil Aviation and Airports,OACA,Office de l'aviation civile et des aéroports,www.oaca.nat.tn
+151,151,Directorate General of Civil Aviation of Turkey,SHGM,Sivil Havac?l?k Genel Müdürlü?ü,www.shgm.gov.tr
+152,152,Turks and Caicos Islands Civil Aviation Authority,TC?CAA,,www.tcicaa.org
+153,153,Pacific Aviation Safety Office,PASO,,www.paso.aero
+154,154,Civil Aviation Authority of Uganda,CAA-UG,Ekitongole kya Uganda ekikola ku by'ennyonyi,www.caa.go.ug
+155,155,State Aviation Administration of Ukraine,AV?A,???????? ????????? ?????? ??????? (??????????????),www.avia.gov.ua
+156,156,General Civil Aviation Authority,CAA-AE,,www.gcaa.ae
+157,157,Civil Aviation Authority,CAA-UK,,www.caa.co.uk
+158,158,Federal Aviation Administration,FAA,,www.faa.gov
+159,159,Pacific Aviation Safety Office,PASO,,www.paso.aero
+160,160,National Institute of Civil Aviation,?NAC-VE,Instituto Nacional de Aviación Civil,www.inac.gov.ve
+161,161,Civil Aviation Administration of Vietnam,CAA-VN,C?c Hàng không Dân d?ng Vi?t Nam,www.caa.gov.vn
+162,162,Civil Aviation and Meteorological Authority of Yemen,CAMA,,www.cama.gov.ye
+163,163,Department of Civil Aviation,DCA-ZM,,www.dca.com.zm
+164,164,Civil Aviation Authority of Zimbabwe,CAAZ,,www.caaz.co.zw
+165,46,Association of European Airlines,AEA,,www.aea.be
+166,151,Turkish Airport Authority,DHMI,Devlet Hava Meydanlar? ??letmesi,www.dhmi.gov.tr
+167,46,European Civil Aviation Conference,ECAC,,www.ecac-ceac.org
+168,0,International Organization for Standardization,ISO,,www.iso.org
+169,158,Society of Automotive Engineers,SAE,SAE International,www.sae.org
+170,151,Tehlikeli Mal ve Kombine Ta??mac?l?k Düzenleme Genel Müdürlü?ü,TMKT,Tehlikeli Mal ve Kombine Ta??mac?l?k Düzenleme Genel Müdürlü?ü,www.tmkt.gov.tr
+171,0,International Air Transport Association,IATA,,www.iata.org
+172,0,International Civil Aviation Organization,ICAO,,www.icao.int/Pages/default.aspx
