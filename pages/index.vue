@@ -48,7 +48,7 @@ export default {
     item: 1,
     items: [
       { text: 'ORG 1.1.1', type: 'r', id: 'WHEYWEASD' },
-      { text: 'SXS-OMA', type: 'd', id: 'WEQDAWEASD' }
+      { text: 'SXS-MOE', type: 'd', id: 'WEQDAWEASD' }
     ]
   })
   /* ,
