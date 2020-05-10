@@ -1,7 +1,7 @@
 <template>
   <v-card class="mb-4">
     <v-app-bar dark color="blue">
-      <v-toolbar-title>Main Content - Type: {{ nodeType }}</v-toolbar-title>
+      <v-toolbar-title>Main Content-Type: {{ nodeType }}</v-toolbar-title>
     </v-app-bar>
 
     <v-container>
